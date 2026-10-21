@@ -1,2 +1,2 @@
 # Technical Evaluation Zynax
-Fork this repository, make any changes and submit a pull request. Simple.
+My first attempt to forked this repository! 
